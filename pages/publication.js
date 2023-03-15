@@ -3,7 +3,7 @@ import styles from "../styles/Publication.module.css";
 export default function Publication() {
     return <div className={styles.container}>
         <div className={styles.headline}>
-            <h1>Ako prežijem túto dobu?</h1>
+            <h1>Krízy mladých ľudí</h1>
             <p>Alex Furman, publikované 15.3.2023 ako súťažný obsah v kategórii TEXT pre <a
                 href={"https://www.juniorinternet.sk/"} rel={"noreferrer"}>Junior Internet (Amavet)</a></p>
         </div>
