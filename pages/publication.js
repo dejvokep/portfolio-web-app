@@ -4,7 +4,7 @@ export default function Publication() {
     return <div className={styles.container}>
         <div className={styles.headline}>
             <h1>Ako prežijem túto dobu?</h1>
-            <p>Alex Furman, publikované 15.3.2023 ako súťažný text v kategórii TEXT pre <a
+            <p>Alex Furman, publikované 15.3.2023 ako súťažný obsah v kategórii TEXT pre <a
                 href={"https://www.juniorinternet.sk/"} rel={"noreferrer"}>Junior Internet (Amavet)</a></p>
         </div>
         <div className={styles.content}>
