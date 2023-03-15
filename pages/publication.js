@@ -64,6 +64,9 @@ export default function Publication() {
                 pretože každá kríza je riešiteľná. Niektoré riešenia sú možno neprivetivé, ale sú potrebné. Preto by sme
                 sa mali zamyslieť či chceme problémy riešiť alebo sa len tváriť že ich riešime.
             </p>
+            <p>
+                Táto práca je prihlásená do súťaže Junior Internet.
+            </p>
         </div>
     </div>
 }
