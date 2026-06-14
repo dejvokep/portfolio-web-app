@@ -1,0 +1,43 @@
+Privacy Notice
+Last updated: June 14, 2026
+
+1. Who runs this site
+This is a personal website operated by Dávid Kepič.
+Contact: kepicdav@cvut.cz
+
+2. No cookies, no tracking
+This website does not use cookies, analytics, advertising trackers, or any
+other technology that tracks you across the internet. Nothing is stored in
+your browser.
+
+3. What data is processed
+When you visit this site, the hosting provider (Vercel) automatically records
+standard technical information — primarily your IP address — in server logs.
+This is technically necessary to deliver the page and maintain server
+security. This processing is based on legitimate interest (Article 6(1)(f)
+GDPR). I do not have direct access to or control over these logs.
+
+4. Hosting
+This site is hosted by Vercel Inc. (440 N Barranca Ave #4133, Covina,
+CA 91723, USA). As a US-based company, data may be transferred outside the
+EU/EEA. This transfer is covered by Standard Contractual Clauses (SCC) and
+the EU-U.S. Data Privacy Framework.
+More information: https://vercel.com/legal/privacy-policy
+
+5. Retention
+Server logs are retained by Vercel only as long as necessary for security
+and operational purposes.
+
+6. Your rights (EU/EEA visitors)
+Under the GDPR you have the right to access, rectification, erasure,
+restriction of processing, data portability, and to object to processing
+based on legitimate interest. To exercise these rights, contact:
+kepicdav@cvut.cz
+
+You may also lodge a complaint with the supervisory authority:
+Urad na ochranu osobnych udajov Slovenskej republiky
+Hranicna 12, 820 07 Bratislava 27
+https://dataprotection.gov.sk/
+
+7. No automated decision-making
+No automated decisions or profiling of any kind take place on this site.
