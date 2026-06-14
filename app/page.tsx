@@ -5,7 +5,7 @@ export default function Home() {
     <main className={"text-center space-y-4"}>
       <header className={"space-y-2"}>
         <h1 className={"text-6xl font-sans font-[800] italic"}>DEJVOKEP</h1>
-        <p>Dávid Kepič | Student of Computer Engineering at CTU Prague | Junior Software Engineer</p>
+        <p>Dávid Kepič | Student of Computer Engineering at FIT CTU Prague | Junior Software Engineer</p>
       </header>
       <p className={"text-gray-500"}>xxxxx</p>
       <ul className={"flex justify-center gap-4 font-mono"}>
