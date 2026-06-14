@@ -15,7 +15,11 @@ When you visit this site, the hosting provider (Vercel) automatically records
 standard technical information — primarily your IP address — in server logs.
 This is technically necessary to deliver the page and maintain server
 security. This processing is based on legitimate interest (Article 6(1)(f)
-GDPR). I do not have direct access to or control over these logs.
+GDPR).
+
+Through the hosting dashboard I have limited visibility into aggregated
+request data (such as browser/device type). I do not use this information to
+identify individual visitors.
 
 4. Hosting
 This site is hosted by Vercel Inc. (440 N Barranca Ave #4133, Covina,
