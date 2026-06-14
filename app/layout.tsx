@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   metadataBase: process.env.HOST,
   alternates: {canonical: process.env.HOST},
   openGraph: {
-    title: "dejvokep.dev",
+    title: "Dávid Kepič | dejvokep.dev",
     description: "Junior software engineer with a background in math, physics, and IT. Passionate about building scalable systems, solving hard problems, and working closely with others to find the best solution.",
     url: process.env.HOST,
     siteName: "dejvokep.dev",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "dejvokep.dev",
+    title: "Dávid Kepič | dejvokep.dev",
     description: "Junior software engineer with a background in math, physics, and IT. Passionate about building scalable systems, solving hard problems, and working closely with others to find the best solution.",
   },
   robots: {index: true, follow: true}
