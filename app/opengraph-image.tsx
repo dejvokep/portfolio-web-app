@@ -6,7 +6,7 @@ export const size = {width: 1200, height: 630};
 export const contentType = "image/png";
 export const alt = "dejvokep.dev";
 
-const rubik = readFileSync(join(process.cwd(), "fonts/rubik-800i.ttf"));
+const rubik = readFileSync(join(process.cwd(), "lib/fonts/rubik-800i.ttf"));
 
 export default function Image() {
     return new ImageResponse(

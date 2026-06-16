@@ -1,8 +1,12 @@
-import type { Metadata } from "next";
+import type {Metadata, Viewport} from "next";
 import {JetBrains_Mono, Rubik} from "next/font/google";
 import "./globals.css";
 import {ReactNode} from "react";
+import Notice from "@/components/notice";
+import Separator from "@/components/separator";
 import Footer from "@/components/footer";
+import Header from "@/components/header";
+import {deriveMetadata} from "@/lib/metadata";
 
 const rubik = Rubik({
   variable: "--font-rubik",
@@ -14,34 +18,20 @@ const mono = JetBrains_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Dávid Kepič | dejvokep.dev",
-  description: "Junior software engineer with a background in math, physics, and IT. Passionate about building scalable systems, solving hard problems, and working closely with others to find the best solution.",
-  keywords: ["software", "hardware", "development", "student", "ctu", "open", "source"],
-  authors: [{name: "Dávid Kepič"}],
-  metadataBase: process.env.HOST,
-  alternates: {canonical: process.env.HOST},
-  openGraph: {
-    title: "Dávid Kepič | dejvokep.dev",
-    description: "Junior software engineer with a background in math, physics, and IT. Passionate about building scalable systems, solving hard problems, and working closely with others to find the best solution.",
-    url: process.env.HOST,
-    siteName: "dejvokep.dev",
-    type: "website",
-    locale: "en"
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Dávid Kepič | dejvokep.dev",
-    description: "Junior software engineer with a background in math, physics, and IT. Passionate about building scalable systems, solving hard problems, and working closely with others to find the best solution.",
-  },
-  robots: {index: true, follow: true}
-};
+export const metadata: Metadata = deriveMetadata("intro");
+export const viewport: Viewport = {themeColor: "#FFFFFF"};
 
 export default function Layout({children}: Readonly<{ children: ReactNode }>) {
   return <html lang={"en"} className={`${rubik.variable} ${mono.variable}`}>
-    <body className={"min-h-screen font-mono antialiased"}>
-      {children}
-      <Footer/>
+    <body className={"relative min-h-screen font-mono antialiased px-4 py-4"}>
+      <div className={"mx-auto lg:max-w-[60%] space-y-4"}>
+        <Header/>
+        <Separator/>
+        {children}
+        <Separator/>
+        <Footer/>
+      </div>
+      <Notice/>
     </body>
   </html>
 }
