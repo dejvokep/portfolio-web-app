@@ -13,3 +13,5 @@ export default function manifest(): MetadataRoute.Manifest {
         lang: "en"
     }
 }
+
+export const dynamic = "force-static";
