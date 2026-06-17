@@ -1,8 +1,8 @@
 ## Software Engineer @ Global Media Solutions s.r.o.
 
 (11/2023 - now) Co-built audiolivescore.com, a live audio commentary and sports platform. Led technical decisions on
-architecture and implementation, and developed statistical dashboards enabling clients to analyse commentary performance
-and adapt their content strategy, empowering productivity and reducing costs.
+architecture and implementation, and developed statistical tools enabling clients to analyse commentary performance and
+adapt their content strategy, empowering productivity and reducing costs.
 
 ## Software Engineer @ PRIME KE s.r.o.
 
