@@ -1,10 +1,11 @@
 import {MetadataRoute} from "next";
+import {DESCRIPTION} from "@/lib/constants";
 
 export default function manifest(): MetadataRoute.Manifest {
     return {
         name: "dejvokep.dev",
         short_name: "dejvokep.dev",
-        description: "Junior software engineer with a background in math, physics, and IT. Passionate about building scalable systems, solving hard problems, and working closely with others to find the best solution.",
+        description: DESCRIPTION,
         start_url: "/",
         display: "browser",
         background_color: "#ffffff",
