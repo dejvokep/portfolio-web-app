@@ -2,17 +2,18 @@
 
 (11/2023 - now) Co-built audiolivescore.com, a live audio commentary and sports platform. Led technical decisions on
 architecture and implementation, and developed statistical tools enabling clients to analyse commentary performance and
-adapt their content strategy, empowering productivity and reducing costs.
+adapt their content strategy, empowering productivity and reducing costs by as much as 40%.
 
 ## Software Engineer @ PRIME KE s.r.o.
 
 (04/2026 - 05/2026) Designed and delivered a luxury car rental website for a Košice-based client, allowing them to
-directly boost conversion rates of the company and increase sales.
+directly boost conversion rates of the company by 70% and increase sales 3x.
 
 ## Software Engineer @ SK Slavia Praha - fotbal a.s.
 
 (03/2024 - 12/2025) Delivered a live radio broadcasting service and live match monitoring for SK Slavia Praha, helping
-the club reach and engage its online fanbase more effectively. Subcontracted under Global Media Solutions.
+the club reach and engage its online fanbase more effectively, recording 120% spikes during peak traffic. Subcontracted
+under Global Media Solutions.
 
 ## Software Engineer @ Jiří Studník - Skolandia.cz
 
