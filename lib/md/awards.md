@@ -1,3 +1,7 @@
+## Huawei Seeds for the Future CZ+SK 2026 - Winner
+
+(2026) Won Huawei's flagship talent programme with a spatial-awareness warning wristband for deaf and hard-of-hearing users, built around a novel sensory feedback approach.
+
 ## HackKosice 2026 - Winner of the Tatra Banka (Raiffeisen Group) Challenge + Innovative use of MongoDB by MLH
 
 (2026) Built TatraShare, an AI-powered expense-sharing and savings platform leveraging PSD2 open banking. Won the Tatra Banka challenge and the MongoDB innovative use award.
