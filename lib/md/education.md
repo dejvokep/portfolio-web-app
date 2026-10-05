@@ -7,4 +7,4 @@ exchange under Erasmus+ across France, Italy, Turkey, and Slovenia - collaborati
 delegations, and serving as the primary translator during the home exchange.
 
 ## Umelecká škola Vlada Urbana (school of musical arts)
-(2011 - 2016) Graduate in priano performance and music theory.
+(2011 - 2016) Graduate in piano performance and music theory.
